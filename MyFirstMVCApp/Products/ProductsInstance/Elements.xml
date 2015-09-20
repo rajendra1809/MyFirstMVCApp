@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListInstance Title="Products" OnQuickLaunch="TRUE" TemplateType="100" Url="Lists/Products" Description="Products List Instance">
+    <Data>
+      <Rows>
+        <Row>
+          <Field Name="Title">Product 1</Field>
+          <Field Name="ProductDescription">Description of Product 1</Field>
+          <Field Name="Price">$100</Field>
+        </Row>
+        <Row>
+          <Field Name="Title">Product 2</Field>
+          <Field Name="ProductDescription">Description of Product 2</Field>
+          <Field Name="Price">$200</Field>
+        </Row>
+      </Rows>
+    </Data>
+  </ListInstance>
+</Elements>
